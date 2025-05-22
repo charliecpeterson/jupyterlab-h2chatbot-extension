@@ -1,0 +1,14 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.3.8
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: cpeterson@oarc.ucla.edu
+author_name: Charles Peterson
+has_binder: false
+has_settings: false
+kind: frontend
+labextension_name: jupyterlab-h2chatbot-extension
+project_short_description: A JupyterLab extension.
+python_name: jupyterlab_h2chatbot_extension
+repository: https://github.com/charliecpeterson/jupyterlab-h2chatbot-extension
+test: false
+
