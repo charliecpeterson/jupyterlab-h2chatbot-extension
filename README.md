@@ -93,7 +93,7 @@ jlpm build
 
 6. Install the development version of the extension:
 ```bash
-jupyter lab
+jupyter lab build
 ```
 
 ```bash
