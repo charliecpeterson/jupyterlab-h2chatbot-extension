@@ -49,7 +49,7 @@ const plugin: JupyterFrontEndPlugin<void> = {
   ) => {
     console.log('JupyterLab extension jupyterlab-chatbot-extension is activated!');
 
-    const chatbotUrl = 'http://localhost:5000';
+    const chatbotUrl = 'http://ai1.idre.ucla.edu:31694';
     const chatbotId = 'h2chatbot-panel';
     const chatbotTitle = 'H2 Chatbot';
 
